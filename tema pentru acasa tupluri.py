@@ -11,5 +11,6 @@ def camparatie_5(x):
         return"mai mic"
     else:
         return"este egal"
-x=input("Ce numar vreai sa compari cu 5:   ")
+x=input("Ce numar vreai sa compari cu5:   ")
 print (camparatie_5(x))
+print("eee")
